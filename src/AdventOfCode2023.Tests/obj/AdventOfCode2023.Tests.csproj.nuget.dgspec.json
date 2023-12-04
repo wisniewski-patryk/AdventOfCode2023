@@ -4,76 +4,14 @@
     "C:\\Users\\Patryk\\source\\private\\AdventOfCode2023\\src\\AdventOfCode2023.Tests\\AdventOfCode2023.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Patryk\\source\\private\\AdventOfCode2023\\src\\AdventOfCode2023.Day_1\\AdventOfCode2023.Day_1.csproj": {
+    "C:\\Users\\Patryk\\source\\private\\AdventOfCode2023\\src\\AdventOfCode2023.ConsoleApp\\AdventOfCode2023.ConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Patryk\\source\\private\\AdventOfCode2023\\src\\AdventOfCode2023.Day_1\\AdventOfCode2023.Day_1.csproj",
-        "projectName": "AdventOfCode2023.Day_1",
-        "projectPath": "C:\\Users\\Patryk\\source\\private\\AdventOfCode2023\\src\\AdventOfCode2023.Day_1\\AdventOfCode2023.Day_1.csproj",
+        "projectUniqueName": "C:\\Users\\Patryk\\source\\private\\AdventOfCode2023\\src\\AdventOfCode2023.ConsoleApp\\AdventOfCode2023.ConsoleApp.csproj",
+        "projectName": "AdventOfCode2023.ConsoleApp",
+        "projectPath": "C:\\Users\\Patryk\\source\\private\\AdventOfCode2023\\src\\AdventOfCode2023.ConsoleApp\\AdventOfCode2023.ConsoleApp.csproj",
         "packagesPath": "C:\\Users\\Patryk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Patryk\\source\\private\\AdventOfCode2023\\src\\AdventOfCode2023.Day_1\\obj\\",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
-        "configFilePaths": [
-          "C:\\Users\\Patryk\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net8.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
-            "projectReferences": {}
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Users\\Patryk\\source\\private\\AdventOfCode2023\\src\\AdventOfCode2023.Day_2\\AdventOfCode2023.Day_2.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\Patryk\\source\\private\\AdventOfCode2023\\src\\AdventOfCode2023.Day_2\\AdventOfCode2023.Day_2.csproj",
-        "projectName": "AdventOfCode2023.Day_2",
-        "projectPath": "C:\\Users\\Patryk\\source\\private\\AdventOfCode2023\\src\\AdventOfCode2023.Day_2\\AdventOfCode2023.Day_2.csproj",
-        "packagesPath": "C:\\Users\\Patryk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Patryk\\source\\private\\AdventOfCode2023\\src\\AdventOfCode2023.Day_2\\obj\\",
+        "outputPath": "C:\\Users\\Patryk\\source\\private\\AdventOfCode2023\\src\\AdventOfCode2023.ConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -159,11 +97,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Patryk\\source\\private\\AdventOfCode2023\\src\\AdventOfCode2023.Day_1\\AdventOfCode2023.Day_1.csproj": {
-                "projectPath": "C:\\Users\\Patryk\\source\\private\\AdventOfCode2023\\src\\AdventOfCode2023.Day_1\\AdventOfCode2023.Day_1.csproj"
-              },
-              "C:\\Users\\Patryk\\source\\private\\AdventOfCode2023\\src\\AdventOfCode2023.Day_2\\AdventOfCode2023.Day_2.csproj": {
-                "projectPath": "C:\\Users\\Patryk\\source\\private\\AdventOfCode2023\\src\\AdventOfCode2023.Day_2\\AdventOfCode2023.Day_2.csproj"
+              "C:\\Users\\Patryk\\source\\private\\AdventOfCode2023\\src\\AdventOfCode2023.ConsoleApp\\AdventOfCode2023.ConsoleApp.csproj": {
+                "projectPath": "C:\\Users\\Patryk\\source\\private\\AdventOfCode2023\\src\\AdventOfCode2023.ConsoleApp\\AdventOfCode2023.ConsoleApp.csproj"
               }
             }
           }

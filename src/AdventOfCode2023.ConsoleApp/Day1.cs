@@ -2,11 +2,11 @@
 
 namespace AdventOfCode2023.Day_1;
 
-public class Puzzle1
+public class Day1
 {
 	private readonly Dictionary<string, string> spelledDigits;
 
-    public Puzzle1()
+    public Day1()
 	{
 		spelledDigits = new Dictionary<string, string>
 		{

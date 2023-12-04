@@ -1,6 +1,6 @@
 ﻿namespace AdventOfCode2023.Day_2;
 
-public class Puzzle2
+public class Day2
 {
 	public record Part1(bool IsPossible, int GameNumber);
 	public record Part2(int MaxRedCubes, int MaxGreenCubes, int MaxBlueCubes, int Power);

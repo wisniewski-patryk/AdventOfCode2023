@@ -4,11 +4,11 @@ namespace AdventOfCode2023.Tests;
 
 public class Day_1
 {
-    private readonly Puzzle1 subject;
+    private readonly Day1 subject;
 
     public Day_1()
     {
-        this.subject = new Puzzle1();
+        this.subject = new Day1();
     }
 
     [Theory]

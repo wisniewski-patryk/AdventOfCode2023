@@ -1760,24 +1760,14 @@
           "build/netcoreapp3.1/xunit.runner.visualstudio.props": {}
         }
       },
-      "AdventOfCode2023.Day_1/1.0.0": {
+      "AdventOfCode2023.ConsoleApp/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "compile": {
-          "bin/placeholder/AdventOfCode2023.Day_1.dll": {}
+          "bin/placeholder/AdventOfCode2023.ConsoleApp.dll": {}
         },
         "runtime": {
-          "bin/placeholder/AdventOfCode2023.Day_1.dll": {}
-        }
-      },
-      "AdventOfCode2023.Day_2/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "compile": {
-          "bin/placeholder/AdventOfCode2023.Day_2.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/AdventOfCode2023.Day_2.dll": {}
+          "bin/placeholder/AdventOfCode2023.ConsoleApp.dll": {}
         }
       }
     }
@@ -5667,21 +5657,15 @@
         "xunit.runner.visualstudio.nuspec"
       ]
     },
-    "AdventOfCode2023.Day_1/1.0.0": {
+    "AdventOfCode2023.ConsoleApp/1.0.0": {
       "type": "project",
-      "path": "../AdventOfCode2023.Day_1/AdventOfCode2023.Day_1.csproj",
-      "msbuildProject": "../AdventOfCode2023.Day_1/AdventOfCode2023.Day_1.csproj"
-    },
-    "AdventOfCode2023.Day_2/1.0.0": {
-      "type": "project",
-      "path": "../AdventOfCode2023.Day_2/AdventOfCode2023.Day_2.csproj",
-      "msbuildProject": "../AdventOfCode2023.Day_2/AdventOfCode2023.Day_2.csproj"
+      "path": "../AdventOfCode2023.ConsoleApp/AdventOfCode2023.ConsoleApp.csproj",
+      "msbuildProject": "../AdventOfCode2023.ConsoleApp/AdventOfCode2023.ConsoleApp.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "AdventOfCode2023.Day_1 >= 1.0.0",
-      "AdventOfCode2023.Day_2 >= 1.0.0",
+      "AdventOfCode2023.ConsoleApp >= 1.0.0",
       "FluentAssertions >= 6.12.0",
       "Microsoft.NET.Test.Sdk >= 17.6.0",
       "coverlet.collector >= 6.0.0",
@@ -5725,11 +5709,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Patryk\\source\\private\\AdventOfCode2023\\src\\AdventOfCode2023.Day_1\\AdventOfCode2023.Day_1.csproj": {
-              "projectPath": "C:\\Users\\Patryk\\source\\private\\AdventOfCode2023\\src\\AdventOfCode2023.Day_1\\AdventOfCode2023.Day_1.csproj"
-            },
-            "C:\\Users\\Patryk\\source\\private\\AdventOfCode2023\\src\\AdventOfCode2023.Day_2\\AdventOfCode2023.Day_2.csproj": {
-              "projectPath": "C:\\Users\\Patryk\\source\\private\\AdventOfCode2023\\src\\AdventOfCode2023.Day_2\\AdventOfCode2023.Day_2.csproj"
+            "C:\\Users\\Patryk\\source\\private\\AdventOfCode2023\\src\\AdventOfCode2023.ConsoleApp\\AdventOfCode2023.ConsoleApp.csproj": {
+              "projectPath": "C:\\Users\\Patryk\\source\\private\\AdventOfCode2023\\src\\AdventOfCode2023.ConsoleApp\\AdventOfCode2023.ConsoleApp.csproj"
             }
           }
         }

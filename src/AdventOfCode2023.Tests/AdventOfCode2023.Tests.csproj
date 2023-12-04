@@ -24,8 +24,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\AdventOfCode2023.Day_1\AdventOfCode2023.Day_1.csproj" />
-    <ProjectReference Include="..\AdventOfCode2023.Day_2\AdventOfCode2023.Day_2.csproj" />
+    <ProjectReference Include="..\AdventOfCode2023.ConsoleApp\AdventOfCode2023.ConsoleApp.csproj" />
   </ItemGroup>
 
 </Project>
